@@ -6,6 +6,9 @@
 
 目前仅支持 Debian 系统，要求使用 root 账户执行。
 
+![image](https://user-images.githubusercontent.com/2698003/229393195-3b1133b3-122b-4f77-a666-4a86a040831a.png)
+
+
 ### 使用说明
 
 如果你要使用 wss 和 http2 代理，过程中会要求填入域名，方便自动完成证书的部署。
