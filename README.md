@@ -51,3 +51,7 @@ export port_shadowsocks=8433
 export port_wss=4433
 export port_http2=443
 ```
+
+### License
+
+[MIT](./LICENSE)
